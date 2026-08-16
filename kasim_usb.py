@@ -4,7 +4,7 @@ import socket
 import threading
 
 APP_NAME = "Kasim USB"
-DEFAULT_PORT = 5000
+DEFAULT_PORT = 32038
 
 server_socket = None
 running = False
